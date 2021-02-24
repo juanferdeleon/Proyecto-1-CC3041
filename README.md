@@ -2,11 +2,11 @@
 
 ## Creado por:
 
-#### (Juan Fernando De Leon Quezada 17822)[https://github.com/juanferdeleon]
+#### [Juan Fernando De Leon Quezada 17822](https://github.com/juanferdeleon)
 
-#### (Josue Sagastume 18173)[https://github.com/JosueS22]
+#### [Josue Sagastume 18173](https://github.com/JosueS22)
 
-#### (Maria Jose Castro 181202)[https://github.com/iconicmajo]
+#### [Maria Jose Castro 181202](https://github.com/iconicmajo)
 
 **Instrucciones:** realice un programa en Python en el que se computen las siguientes expresiones usando únicamente funciones lambda(función anónima):
 
