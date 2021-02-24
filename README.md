@@ -25,7 +25,7 @@ Realice un programa en Python en el que se computen las siguientes expresiones u
 
 ### Como ejecutar el codigo:
 
-Correr el archivo [proyecto-1.py](./proyecto-1.pt) en la linea de comandos:
+Correr el archivo [proyecto-1.py](proyecto-1.py) en la linea de comandos:
 
 ```
 python proyecto-1.py
