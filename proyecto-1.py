@@ -13,13 +13,6 @@ Creado por:
 from helpers import screen_clear_1, screen_clear_2, is_int
 from lambda_functions import *
 
-# product = (lambda m: lambda n: lambda f: lambda x: n(m(f))(x))
-
-# zero = lambda f: lambda x: x
-# one   = lambda f: lambda x: f(x)
-# two   = lambda f: lambda x: f(f(x))
-# three = lambda f: lambda x: f(f(f(x)))
-
 def menu():
     return '''
     
