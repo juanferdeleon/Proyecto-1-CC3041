@@ -22,3 +22,13 @@ Realice un programa en Python en el que se computen las siguientes expresiones u
 8. 𝑠𝑢𝑐𝑒𝑠𝑜𝑟(𝑛,𝑓,𝑥)=𝜆𝑛.𝜆𝑓.𝜆𝑥(𝑓(𝑛𝑓(𝑥)))
 9. 𝑠𝑢𝑚𝑎(𝑎,𝑏,𝑓,𝑥)
 10. 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑖𝑐𝑎𝑐𝑖ó𝑛(𝑎,𝑏,𝑓,𝑥)
+
+### Como ejecutar el codigo:
+
+Correr el archivo [proyecto-1.py](./proyecto-1.pt) en la linea de comandos:
+
+```
+python proyecto-1.py
+```
+
+o desde cualquier IDE.
